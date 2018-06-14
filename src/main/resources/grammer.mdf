@@ -1,0 +1,7 @@
+{$DocModel.packageName}
+Interfaces{$DocModel.interfaces[]}
+Classes{$DocModel.classes[]}
+Enums{$DocModel.enums[]}
+Exceptions{$DocModel.exceptions[]}
+Errors{$DocModel.errors[]}
+Annotation Types{$DocModel.annotations[]}
